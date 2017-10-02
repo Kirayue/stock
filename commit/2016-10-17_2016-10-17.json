@@ -1,0 +1,11 @@
+[
+	{
+		"code": "3008",
+		"type": "buy",
+		"weight": 1,
+		"life": 7,
+		"open_price": "3665",
+		"close_high_price": 4764.5,
+		"close_low_price": 2565.5
+	}
+]
